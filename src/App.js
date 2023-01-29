@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Bye there!
+          Hello this is my docker react app running on AWS elastic beanstalk!
         </p>
         <a
           className="App-link"
